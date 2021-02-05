@@ -3,6 +3,8 @@ A bash script that detects your device IP and automatically conects it to Androi
 
 Usage:
 
-1 - Connect your phone to your computer using a USB cable  
-2 - Run the script  
-3 - Disconnect your USB cable  
+1 - Enable USB Debugging on your device (if not enabled already)  
+2 - Connect the device to your computer using a USB cable  
+3 - Run the script on the terminal  
+4 - Disconnect your USB cable  
+5 - Profit  
