@@ -16,3 +16,4 @@ A bash script that detects your device IP address and automatically conects it t
 
 1 - The phone should be connected to WiFi  
 2 - Both computer and phone should be using the same network  
+3 - (Optional) If you want to mirror your phone screen, install scrcpy (https://github.com/Genymobile/scrcpy).
