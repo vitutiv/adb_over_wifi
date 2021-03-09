@@ -1,5 +1,5 @@
 # ADB Over WiFi
-Version: 1.1
+Version: 1.2
 
 A bash script that detects your device IP address and automatically conects it to Android Debug Bridge (ADB) via WiFi. Useful for developers who can't keep their USB cables connected all the time.
 
